@@ -1,7 +1,8 @@
-# セッション引継ぎ資料（2026年4月28日時点）
+# ForNext_Report: セッション引継ぎ資料（2026年4月28日時点）
 
-> このファイルは新しいセッションで作業を継続するための完全なコンテキスト。
-> メインレポートは `final_portfolio_report_v3.md` を参照。
+> **ファイル名**: `v3_revised_analysis/ForNext_Report.md`
+> **使い方**: 新しいセッションで「`v3_revised_analysis/ForNext_Report.md` を読んで続きをやって」と指示すればOK。
+> このファイルだけで全コンテキストが完結する。詳細分析は `final_portfolio_report_v3.md` を参照。
 
 ---
 
@@ -189,12 +190,12 @@
 ```
 kabu/
 ├── v3_revised_analysis/          ← 現行バージョン
-│   ├── final_portfolio_report_v3.md   ← メインレポート
-│   ├── session_handoff.md             ← この引継ぎ資料
-│   ├── fangplus_rationality_analysis.md
-│   ├── global_diversification_analysis.md
-│   ├── metatrend_analysis_v3.md
-│   └── latest_global_update.md
+│   ├── final_portfolio_report_v3.md   ← メインレポート（詳細分析）
+│   ├── ForNext_Report.md              ← ★ このファイル（引継ぎ用・完結型）
+│   ├── fangplus_rationality_analysis.md  ← FANG+合理性分析
+│   ├── global_diversification_analysis.md ← 全世界株式戦略
+│   ├── metatrend_analysis_v3.md       ← メタトレンド評価
+│   └── latest_global_update.md        ← 市場アップデートログ
 ├── v2_revised_analysis/          ← 旧バージョン（参考）
 └── v1_initial_analysis/          ← 初回分析（参考）
 ```
