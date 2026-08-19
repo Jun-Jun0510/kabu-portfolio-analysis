@@ -26,6 +26,7 @@ Phase 2実行後のポートフォリオ評価。
 |----------|------|
 | `summary_portfolio_review_v4.md` | 統括レポート。配分乖離、OKLO急落分析、実質エクスポージャー、CBRS評価、リバランス案。§0-1に初版の計算誤りの訂正を記載 |
 | `ForNext_Report.md` | 引継ぎ資料（完結型） |
+| `nisa_execution_plan.md` | NISA枠の実行計画。残枠1,155,365円の使い方と年末チェックリスト（期限12/31） |
 | `cybersecurity_thesis_analysis.md` | 4493とAIセキュリティ・テーマの評価。FANG+のCRWD除外、OT/ICSセキュリティ提案 |
 | `rules.md` | 売買ルール案（ポジション上限・利確・損切り・入金振り分け・偏差補正） |
 
