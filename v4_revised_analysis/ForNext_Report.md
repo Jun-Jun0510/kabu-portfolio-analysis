@@ -1,4 +1,13 @@
-# ForNext_Report: セッション引継ぎ資料（2026年8月18日時点）
+# ForNext_Report: セッション引継ぎ資料（2026年9月15日時点）
+
+> ## ⚡ 最新の実行計画は `action_plan_2026Q4.md` を見ること
+> 総資産 **4,201,423円** / 現金 **1,347,825円(32.08%)** / NISA成長枠残 **725,365円**（12/31失効）
+> つみたて枠は満額消化済み（オルカン430,000円、10〜12月執行）
+> 方針: `ai_stack_thesis.md`（AIスタック3層テーゼ）／ 米国個別株は**メタトレンド評価**で判断（`rules.md` §3）
+
+---
+
+# （以下は2026年8月18日時点の記録）
 
 > **ファイル名**: `v4_revised_analysis/ForNext_Report.md`
 > **使い方**: 新しいセッションで「`v4_revised_analysis/ForNext_Report.md` を読んで続きをやって」と指示すればOK。
@@ -255,7 +264,8 @@ kabu-portfolio-analysis/
 ├── reference.md                        ← 全文書の説明・読む順序
 ├── v4_revised_analysis/                ← ★ 現行バージョン
 │   ├── summary_portfolio_review_v4.md      ← メインレポート（詳細評価）
-│   ├── ai_stack_thesis.md                  ← ★ AIスタック3層テーゼ（現行の投資方針）
+│   ├── action_plan_2026Q4.md               ← ★ 最新の実行計画（9月〜12月）
+│   ├── ai_stack_thesis.md                  ← AIスタック3層テーゼ（現行の投資方針）
 │   ├── nisa_execution_plan.md              ← NISA枠の実行計画（期限12/31）
 │   ├── cybersecurity_thesis_analysis.md    ← 4493とAIセキュリティ・テーマの評価
 │   ├── rules.md                            ← 売買ルール（ドラフト）

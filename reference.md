@@ -9,7 +9,7 @@
 
 | ファイル | 内容 |
 |----------|------|
-| **`v4_revised_analysis/ForNext_Report.md`** | **★最新の引継ぎ資料。これ1つで全コンテキストが完結する** |
+| **`v4_revised_analysis/action_plan_2026Q4.md`** | **★最新の実行計画。まずこれを読む** |
 | `v4_revised_analysis/summary_portfolio_review_v4.md` | 最新の詳細評価レポート |
 | `v4_revised_analysis/rules.md` | 売買ルール（ドラフト・未承認） |
 
@@ -26,6 +26,7 @@ Phase 2実行後のポートフォリオ評価。
 |----------|------|
 | `summary_portfolio_review_v4.md` | 統括レポート。配分乖離、OKLO急落分析、実質エクスポージャー、CBRS評価、リバランス案。§0-1に初版の計算誤りの訂正を記載 |
 | `ForNext_Report.md` | 引継ぎ資料（完結型） |
+| `action_plan_2026Q4.md` | **最新の実行計画**（9〜12月）。売却・購入・設定タスク・ルール変更を一覧化 |
 | `ai_stack_thesis.md` | **現行の投資方針**。AIスタック5層への写像、エネルギー層の穴、GEV/SpaceX/Anthropicの評価、勤務先(TMEIC)制約 |
 | `nisa_execution_plan.md` | NISA枠の実行計画。残枠1,155,365円の使い方と年末チェックリスト（期限12/31） |
 | `cybersecurity_thesis_analysis.md` | 4493とAIセキュリティ・テーマの評価。FANG+のCRWD除外、OT/ICSセキュリティ提案 |
