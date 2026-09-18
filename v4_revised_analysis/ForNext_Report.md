@@ -1,6 +1,6 @@
 # ForNext_Report: セッション引継ぎ資料（2026年9月15日時点）
 
-> ## ⚡ 最新の実行計画は `action_plan_2026Q4.md` を見ること
+> ## ⚡ 最新の実行計画は `action_plan_2026Q4.md`、検討中の銘柄は `watchlist.md`
 > **2026/9/16時点**: ゴールド5.00%到達 / OKLO等4銘柄を売却しGEV 1株へ入れ替え完了
 > 現金 1,259,958円(29.99%) / NISA成長枠 残511,781円 / 残タスク: Anthropic(10月)・SPCX(12/8前後)
 > 総資産 **4,201,423円** / 現金 **1,347,825円(32.08%)** / NISA成長枠残 **725,365円**（12/31失効）
@@ -267,6 +267,7 @@ kabu-portfolio-analysis/
 ├── v4_revised_analysis/                ← ★ 現行バージョン
 │   ├── summary_portfolio_review_v4.md      ← メインレポート（詳細評価）
 │   ├── action_plan_2026Q4.md               ← ★ 最新の実行計画（9月〜12月）
+│   ├── watchlist.md                        ← ★ ウォッチリスト（検討中・除外銘柄）
 │   ├── ai_stack_thesis.md                  ← AIスタック3層テーゼ（現行の投資方針）
 │   ├── nisa_execution_plan.md              ← NISA枠の実行計画（期限12/31）
 │   ├── cybersecurity_thesis_analysis.md    ← 4493とAIセキュリティ・テーマの評価
